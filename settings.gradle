@@ -10,7 +10,18 @@ dependencyResolutionManagement {
     repositories {
         google()
         mavenCentral()
+        // Mapbox Maven repository
+        maven { url 'https://api.mapbox.com/downloads/v2/releases/maven'
+            authentication {
+                basic(BasicAuthentication)
+            }
+            credentials {
+                username "mapbox"
+                password = MAPBOX_DOWNLOADS_TOKEN
+            }
+        }
     }
 }
+
 rootProject.name = "SCG SoS"
 include ':app'

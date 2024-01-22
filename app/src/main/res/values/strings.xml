@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">SCG SoS</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="mapbox_access_token" translatable="false">sk.eyJ1IjoidGl3YXJpZ2FtYW4iLCJhIjoiY2xyb295MGQ2MDJjaDJxbnpuYmF3MmQ5dCJ9.HbUleTCwd87cfz87GzaYeQ</string>
 </resources>

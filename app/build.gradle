@@ -53,10 +53,11 @@ dependencies {
     implementation 'com.google.android.libraries.places:places:2.7.0'
 
     implementation 'com.mapbox.maps:android:11.1.0'
-    implementation 'com.mapbox.maps.plugin:locationcomponent:10.0.0'
-    implementation 'com.mapbox.android.gestures:android-gestures:7.0.0'
-    implementation 'com.mapbox.maps.extension:style-expressions-dsl:10.0.0'
-    implementation 'com.mapbox.maps.plugin:location-puck:10.0.0'
+
+//    implementation 'com.mapbox.maps.plugin:locationcomponent:10.0.0'
+//    implementation 'com.mapbox.android.gestures:android-gestures:8.0.0'
+//    implementation 'com.mapbox.maps.extension:style-expressions-dsl:10.0.0'
+//    implementation 'com.mapbox.maps.plugin:location-puck:10.0.0'
 
 
 
